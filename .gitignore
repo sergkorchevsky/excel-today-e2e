@@ -1,0 +1,9 @@
+node_modules
+dist
+playwright-report
+test-results
+*.log
+.vscode
+.DS_Store
+/LICENSE
+/excel-today-e2e.iml
